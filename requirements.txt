@@ -1,0 +1,5 @@
+pymobiledevice3==11.3.1
+PySide6==6.11.2
+wsgidav==4.3.5
+cheroot==11.1.2
+pillow==12.3.0
