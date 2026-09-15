@@ -1,0 +1,11 @@
+__pycache__
+.mypy_cache
+hudzen_win.png
+shot_*.png
+titlebar.png
+_cap.py
+_shoot*.py
+build/
+dist/
+*.spec
+installer
